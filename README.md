@@ -1,7 +1,7 @@
 # Online-examinations-systems.
-# Reg No:
-# Name:
-# Date:
+# Reg No:212222230003
+# Name:ABISHEK PV
+# Date:18/11/2024
 
 
 # AIM:
@@ -39,6 +39,7 @@ Specifying the context and requirements of a system
 
 
 
+![386988631-ef0e62ee-279f-4855-909d-ad10c1895c46](https://github.com/user-attachments/assets/57265d91-1079-4aa1-8cf9-e17512bd8e2b)
 
 
 
@@ -57,6 +58,9 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+![386988606-1a879e90-3b46-433d-8bfc-5bf8f22d247b](https://github.com/user-attachments/assets/87b742fc-2b5a-47cc-992d-907b85c866f5)
+
+
 
 
 # COMMUNICTION DIAGRAM:
@@ -64,8 +68,7 @@ Create detailed charts that…
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
-
-
+![386988511-486212be-106a-40c4-b2ca-731f986e53fa](https://github.com/user-attachments/assets/a304def6-884e-4a00-ae3b-06c258adebf2)
 
 
 # PACKAGE DIAGRAM:
@@ -80,6 +83,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+![386988481-4797cdd8-ebe3-4bca-8226-9fac06124bb3](https://github.com/user-attachments/assets/c669efae-5f76-47b1-83af-b435997be559)
 
 
 
@@ -97,6 +101,7 @@ Describe the steps performed in a UML use case.
 
 
 
+![386988583-208d0cc8-1f81-4db2-babe-f863c5b7ee0b](https://github.com/user-attachments/assets/9fdba0f2-3a56-4b8c-851b-e8278f8b56a8)
 
 
 # SEQUENCE DIAGRAM
@@ -118,6 +123,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+![386988589-0cd0d93f-4c2d-4cc2-ab58-edbc1164f6a1](https://github.com/user-attachments/assets/c8f9c47e-373d-4098-a53e-fd27d0a021c5)
 
 
 
